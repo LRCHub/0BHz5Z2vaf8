@@ -1,0 +1,61 @@
+# まどそふと公式チャンネル – 【ワガママハイスペックOC OP Full】Hey Darling! 【期間限定:公式】
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey darling
+Have to tell you bout the world
+Have to tell you today
+Believe me well
+Believe me well
+
+You better believe in angels
+There's no other substitute
+We all do that before we're going up in the sky
+If your loving is in your money
+No they cannot hug you back
+This is the sound of the world
+I know, I see, I do, I say
+
+Hey darling
+Have I told you 'bout the rest of the world?
+Hey darling
+But all I see is that gonna twist and curl
+Take a look around
+Take a look around
+
+You're blaming it all on doubt
+You must blame it on yourself
+You're burning your candle both ways
+That I learned from my past
+Quench your thirst with mem'ries
+There's no point in being stressed
+That is the thing I have learned
+I've done, I've beat, I seen all that
+
+Hey darling
+Have I told you 'bout the rest of the world?
+Hey darling
+But all I see is that gonna twist and curl
+Take a look around
+
+Hey darling
+Have I told you 'bout the rest of the world? (take a look around)
+Hey darling
+Have I told you 'bout the rest of the world? (have to tell you ...)
+
+I'm never gonna change my mind
+No I'm never gonna change my mind
+Believe me well
+Believe me well
+
+Hey darling
+Have I told you 'bout the rest of the world?
+Hey darling
+But all I see is that gonna twist and curl (have to tell you ...
+Hey darling
+Hey darling (have to tell you ...)
+Hey darling (ah uh)
+Hey darling (have to tel you ...)
+Hey darling (believe me well)
+```
