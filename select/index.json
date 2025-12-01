@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "【ワガママハイスペックOC OP Full】Hey Darling! 【期間限定:公式】",
+  "base_artist": "まどそふと公式チャンネル",
+  "createdAt": "2025-12-01T12:50:03.551032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/01_Hey_Darling_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/02_Hey_Darling_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Sleater-Kinney",
+      "has_synced": true,
+      "path": "select/03_Hey_Darling_Sleater-Kinney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Sleater‐Kinney",
+      "has_synced": true,
+      "path": "select/04_Hey_Darling_Sleater‐Kinney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Darling (Bells Version) - Bonus Track",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/05_Hey_Darling_(Bells_Version)_-_Bonus_Track_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Darling (Bells Version)",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/06_Hey_Darling_(Bells_Version)_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "The Spencer Davis Group",
+      "has_synced": true,
+      "path": "select/07_Hey_Darling_The_Spencer_Davis_Group.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Spencer Davis Group",
+      "has_synced": true,
+      "path": "select/08_Hey_Darling_Spencer_Davis_Group.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "The Spencer Davis Group",
+      "has_synced": true,
+      "path": "select/09_Hey_Darling_The_Spencer_Davis_Group.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "SylV",
+      "has_synced": false,
+      "path": "select/10_Hey_Darling_SylV.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Darling (Alternative Mix)",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/11_Hey_Darling_(Alternative_Mix)_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Davis, Spencer, Group, The",
+      "has_synced": true,
+      "path": "select/12_Hey_Darling_Davis,_Spencer,_Group,_The.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Jay Ssandri",
+      "has_synced": false,
+      "path": "select/13_Hey_Darling_Jay_Ssandri.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Darling (Brunner version)",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/14_Hey_Darling_(Brunner_version)_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey darling (feat. Hanakuma Chifuyu)",
+      "artist": "Aintops",
+      "has_synced": true,
+      "path": "select/15_Hey_darling_(feat._Hanakuma_Chifuyu)_Aintops.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Darling (Remastered)",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/16_Hey_Darling_(Remastered)_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Spencer Davis Group, The",
+      "has_synced": true,
+      "path": "select/17_Hey_Darling_Spencer_Davis_Group,_The.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hey Darling",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/18_Hey_Darling_Ace_of_Base.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Darling!",
+      "artist": "囃子匠",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Darling!_囃子匠.txt"
+    }
+  ]
+}
